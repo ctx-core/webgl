@@ -2,9 +2,10 @@
 	"name": "@ctx-core/webgl",
 	"version": "2.1.17",
 	"description": "ctx-core webgl",
-	"main": "store.js",
-	"module": "store.js",
-	"types": "store.ts",
+	"type": "module",
+	"main": "lib.js",
+	"module": "lib.js",
+	"types": "lib.ts",
 	"scripts": {
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
