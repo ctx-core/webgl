@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/webgl",
-	"version": "2.1.20",
+	"version": "2.1.21",
 	"description": "ctx-core webgl",
 	"main": "lib.js",
 	"module": "lib.js",
