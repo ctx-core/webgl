@@ -2,9 +2,9 @@
 	"name": "@ctx-core/webgl",
 	"version": "2.1.24",
 	"description": "ctx-core webgl",
-	"main": "index.js",
-	"module": "index.js",
-	"types": "index.ts",
+	"main": "./index.js",
+	"module": "./index.js",
+	"types": "./index.ts",
 	"scripts": {
 		"build": "npm run clean && npm run compile",
 		"clean": "rm -f tsconfig.tsbuildinfo",
