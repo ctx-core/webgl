@@ -1,1 +1,1 @@
-declare function resize__gl(gl: any): void;
+export declare function resize__gl(gl: any): void;
