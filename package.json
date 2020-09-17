@@ -1,36 +1,36 @@
 {
-	"name": "@ctx-core/webgl",
-	"version": "2.1.33",
-	"description": "ctx-core webgl",
-	"keywords": [
-		"ctx-core",
-		"webgl"
-	],
-	"homepage": "https://github.com/ctx-core/webgl#readme",
-	"bugs": {
-		"url": "https://github.com/ctx-core/webgl/issues"
-	},
-	"repository": {
-		"type": "git",
-		"url": "https://github.com/ctx-core/webgl/issues"
-	},
-	"license": "Apache-2.0",
-	"author": "Brian Takita",
-	"main": "./index.js",
-	"module": "./index.js",
-	"types": "./index.ts",
-	"scripts": {
-		"build": "npm run clean && npm run compile",
-		"clean": "rm -f tsconfig.tsbuildinfo",
-		"compile": "tsc -b",
-		"exec": "$@",
-		"prepublishOnly": "npm run compile"
-	},
-	"devDependencies": {
-		"typescript": "^4.0.2"
-	},
-	"publishConfig": {
-		"access": "public"
-	},
-	"gitHead": "5bf89b88beae55dca3cdb31223964d097c41a5ec"
+  "name": "@ctx-core/webgl",
+  "version": "2.1.34",
+  "description": "ctx-core webgl",
+  "keywords": [
+    "ctx-core",
+    "webgl"
+  ],
+  "homepage": "https://github.com/ctx-core/webgl#readme",
+  "bugs": {
+    "url": "https://github.com/ctx-core/webgl/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ctx-core/webgl/issues"
+  },
+  "license": "Apache-2.0",
+  "author": "Brian Takita",
+  "main": "./index.js",
+  "module": "./index.js",
+  "types": "./index.ts",
+  "scripts": {
+    "build": "npm run clean && npm run compile",
+    "clean": "rm -f tsconfig.tsbuildinfo",
+    "compile": "./node_modules/.bin/tsc -b",
+    "exec": "$@",
+    "prepublishOnly": "npm run compile"
+  },
+  "devDependencies": {
+    "typescript": "^4.0.2"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "gitHead": "5bf89b88beae55dca3cdb31223964d097c41a5ec"
 }
