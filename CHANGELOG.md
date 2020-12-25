@@ -1,5 +1,11 @@
 # @ctx-core/webgl
 
+## 3.0.5
+
+### Patch Changes
+
+- - .rush
+
 ## 3.0.4
 
 ### Patch Changes
