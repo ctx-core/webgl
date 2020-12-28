@@ -1,4 +1,4 @@
-export function resize__gl(gl) {
+export function gl_resize(gl) {
 	const { devicePixelRatio } = window
 	// Lookup the size the browser is displaying the canvas in CSS pixels
 	// and compute a size needed to make our drawingbuffer match it in
@@ -12,4 +12,7 @@ export function resize__gl(gl) {
 		gl.canvas.width = displayWidth
 		gl.canvas.height = displayHeight
 	}
+}
+export {
+	gl_resize as resize__gl
 }

@@ -1,1 +1,1 @@
-export * from './lib';
+export * from './gl_resize';

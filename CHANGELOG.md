@@ -1,5 +1,11 @@
 # @ctx-core/webgl
 
+## 3.1.0
+
+### Minor Changes
+
+- gl_resize as resize\_\_gl
+
 ## 3.0.5
 
 ### Patch Changes
