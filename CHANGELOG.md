@@ -1,5 +1,11 @@
 # @ctx-core/webgl
 
+## 4.0.4
+
+### Patch Changes
+
+- version bump
+
 ## 4.0.3
 
 ### Patch Changes
