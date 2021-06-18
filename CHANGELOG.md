@@ -1,5 +1,11 @@
 # @ctx-core/webgl
 
+## 5.0.2
+
+### Patch Changes
+
+- typescript: ^4.3.3 -> ^4.3.4
+
 ## 5.0.1
 
 ### Patch Changes
