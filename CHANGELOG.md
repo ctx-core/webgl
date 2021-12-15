@@ -1,5 +1,11 @@
 # @ctx-core/webgl
 
+## 6.0.28
+
+### Patch Changes
+
+- \*.d.ts export
+
 ## 6.0.27
 
 ### Patch Changes
