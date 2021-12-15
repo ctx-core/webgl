@@ -1,5 +1,11 @@
 # @ctx-core/webgl
 
+## 6.0.27
+
+### Patch Changes
+
+- fix: tsconfig.json: "rootDir": "."
+
 ## 6.0.26
 
 ### Patch Changes
