@@ -1,5 +1,11 @@
 # @ctx-core/webgl
 
+## 6.0.29
+
+### Patch Changes
+
+- fix: build
+
 ## 6.0.28
 
 ### Patch Changes
