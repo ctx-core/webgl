@@ -1,5 +1,11 @@
 # @ctx-core/webgl
 
+## 6.0.31
+
+### Patch Changes
+
+- tsconfig.json: "target": "ES2021"
+
 ## 6.0.30
 
 ### Patch Changes
