@@ -1,5 +1,11 @@
 # @ctx-core/webgl
 
+## 6.0.33
+
+### Patch Changes
+
+- .js + .d.ts instead of .ts
+
 ## 6.0.32
 
 ### Patch Changes
