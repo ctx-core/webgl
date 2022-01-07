@@ -1,5 +1,11 @@
 # @ctx-core/webgl
 
+## 6.0.35
+
+### Patch Changes
+
+- @swc/core: ^1.2.125 -> ^1.2.127
+
 ## 6.0.34
 
 ### Patch Changes
