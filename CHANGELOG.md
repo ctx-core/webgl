@@ -1,5 +1,11 @@
 # @ctx-core/webgl
 
+## 6.0.37
+
+### Patch Changes
+
+- package.json: exports: update
+
 ## 6.0.36
 
 ### Patch Changes
