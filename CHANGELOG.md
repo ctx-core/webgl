@@ -1,5 +1,12 @@
 # @ctx-core/webgl
 
+## 6.1.0
+
+### Minor Changes
+
+- - gl_resize\_\_gl_T
+- extract _.js & _.d.ts into directories
+
 ## 6.0.41
 
 ### Patch Changes
