@@ -1,5 +1,5 @@
 /**
- * @param gl{import('./index.d.ts').gl_resize__gl_T}
+ * @param {import('./index.d.ts').gl_resize__gl_T}gl
  */
 export function gl_resize(gl) {
 	const { devicePixelRatio } = window
