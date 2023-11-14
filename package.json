@@ -1,6 +1,6 @@
 {
 	"name": "@ctx-core/webgl",
-	"version": "6.2.1",
+	"version": "6.2.2",
 	"description": "ctx-core webgl",
 	"keywords": [
 		"ctx-core",
@@ -19,6 +19,7 @@
 	"type": "module",
 	"files": [
 		"*.d.ts",
+		"*.json",
 		"./gl_resize"
 	],
 	"types": "./index.d.ts",
