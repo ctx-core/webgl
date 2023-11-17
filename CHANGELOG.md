@@ -1,5 +1,11 @@
 # @ctx-core/webgl
 
+## 6.2.4
+
+### Patch Changes
+
+- tsx: ^4.1.2 -> ^4.1.3
+
 ## 6.2.3
 
 ### Patch Changes
